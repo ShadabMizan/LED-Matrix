@@ -11801,7 +11801,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27421007-1239-40e1-bec9-788c2707fb26")
-		(property "Reference" "U6"
+		(property "Reference" "U5"
 			(at 370.4941 180.34 0)
 			(effects
 				(font
@@ -11891,7 +11891,7 @@
 		(instances
 			(project "LED-Design"
 				(path "/f4f73743-e943-40e7-b3a9-52df178c6ab8"
-					(reference "U6")
+					(reference "U5")
 					(unit 1)
 				)
 			)
